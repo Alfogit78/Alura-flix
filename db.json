@@ -31,7 +31,21 @@
       "videos": [
         {
           "id": 4,
-          "titulo": "Receta de Paella",
+          "titulo": "Inmersión en Javascript",
+          "urlImagen": "https://i.postimg.cc/0yDk9vyB/1.jpg",
+          "url": "https://www.youtube.com/watch?v=ClOl5l-uJ3c",
+          "descripcion": "Inmersión Dev: Tus primeros pasos con Javascript."
+        },
+        {
+          "id": 5,
+          "titulo": "Inmersión en Javascript",
+          "urlImagen": "https://i.postimg.cc/0yDk9vyB/1.jpg",
+          "url": "https://www.youtube.com/watch?v=ClOl5l-uJ3c",
+          "descripcion": "Inmersión Dev: Tus primeros pasos con Javascript."
+        },
+        {
+          "id": 6,
+          "titulo": "Inmersión en Javascript",
           "urlImagen": "https://i.postimg.cc/0yDk9vyB/1.jpg",
           "url": "https://www.youtube.com/watch?v=ClOl5l-uJ3c",
           "descripcion": "Inmersión Dev: Tus primeros pasos con Javascript."
@@ -42,8 +56,8 @@
       "nombreCategoria": "Diseño",
       "videos": [
         {
-          "id": 5,
-          "titulo": "El Sistema Solar",
+          "id": 7,
+          "titulo": "Inmersión en Javascript",
           "urlImagen": "https://i.postimg.cc/0yDk9vyB/1.jpg",
           "url": "https://www.youtube.com/watch?v=TNhaISOUy6Q",
           "descripcion": "Explora los planetas y otros cuerpos celestes de nuestro sistema solar."
@@ -54,8 +68,8 @@
       "nombreCategoria": "Devop",
       "videos": [
         {
-          "id": 6,
-          "titulo": "Entrenamiento de Fútbol",
+          "id": 8,
+          "titulo": "¿Qué es Javascript?",
           "urlImagen": "https://i.postimg.cc/0yDk9vyB/1.jpg",
           "url": "https://example.com/videos/futbol-entrenamiento.mp4",
           "descripcion": "Mejora tus habilidades futbolísticas con estos ejercicios."
@@ -66,8 +80,8 @@
       "nombreCategoria": "Programación",
       "videos": [
         {
-          "id": 7,
-          "titulo": "Historia del Arte",
+          "id": 9,
+          "titulo": "¿Qué es Javascript?",
           "urlImagen": "https://i.postimg.cc/0yDk9vyB/1.jpg",
           "url": "https://www.youtube.com/watch?v=TNhaISOUy6Q",
           "descripcion": "Un recorrido por los movimientos artísticos más importantes de la historia."
