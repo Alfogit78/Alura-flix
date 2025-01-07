@@ -2,7 +2,7 @@
   "categorias": [
     {
       "nombreCategoria": "Front-End",
-      "videos": [
+      "db": [
         {
           "id": 1,
           "titulo": "¿Qué es Javascript?",
@@ -28,7 +28,7 @@
     },
     {
       "nombreCategoria": "Back-End",
-      "videos": [
+      "db": [
         {
           "id": 4,
           "titulo": "Inmersión en Javascript",
@@ -54,7 +54,7 @@
     },
     {
       "nombreCategoria": "Diseño",
-      "videos": [
+      "db": [
         {
           "id": 7,
           "titulo": "Inmersión en Javascript",
@@ -66,7 +66,7 @@
     },
     {
       "nombreCategoria": "Devop",
-      "videos": [
+      "db": [
         {
           "id": 8,
           "titulo": "¿Qué es Javascript?",
@@ -78,7 +78,7 @@
     },
     {
       "nombreCategoria": "Programación",
-      "videos": [
+      "db": [
         {
           "id": 9,
           "titulo": "¿Qué es Javascript?",
