@@ -1,12 +1,13 @@
 {
   "categorias": [
     {
+      "id": 1,
       "nombreCategoria": "Front-End",
       "db": [
         {
           "id": 1,
-          "titulo": "¿Qué es Javascript?",
-          "urlImagen": "https://i.postimg.cc/0yDk9vyB/1.jpg",
+          "titulo": "¿Qué es nueva?",
+          "urlImagen": "https://i.postimg.cc/BQdZWb4F/2.jpg",
           "url": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
           "descripcion": "Una introducción completa a Javascript."
         },
@@ -27,6 +28,7 @@
       ]
     },
     {
+      "id": 2,
       "nombreCategoria": "Back-End",
       "db": [
         {
@@ -53,6 +55,7 @@
       ]
     },
     {
+      "id": 3,
       "nombreCategoria": "Diseño",
       "db": [
         {
@@ -65,6 +68,7 @@
       ]
     },
     {
+      "id": 4,
       "nombreCategoria": "Devop",
       "db": [
         {
@@ -77,6 +81,7 @@
       ]
     },
     {
+      "id": 5,
       "nombreCategoria": "Programación",
       "db": [
         {
@@ -90,3 +95,4 @@
     }
   ]
 }
+
