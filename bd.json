@@ -1,0 +1,44 @@
+{
+  "categorias": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440000",
+      "titulo": "¿Qué hay de nuevo en JavaScript?",
+      "urlImagen": "https://i.postimg.cc/BQdZWb4F/2.jpg",
+      "url": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "descripcion": "Una introducción completa a JavaScript.",
+      "categoria": "Front-End"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440001",
+      "titulo": "Inmersión en JavaScript",
+      "urlImagen": "https://i.postimg.cc/0yDk9vyB/1.jpg",
+      "url": "https://www.youtube.com/watch?v=ClOl5l-uJ3c",
+      "descripcion": "Inmersión Dev: Tus primeros pasos con JavaScript.",
+      "categoria": "Back-End"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440002",
+      "titulo": "Explora el sistema solar",
+      "urlImagen": "https://i.postimg.cc/0yDk9vyB/1.jpg",
+      "url": "https://www.youtube.com/watch?v=TNhaISOUy6Q",
+      "descripcion": "Explora los planetas y otros cuerpos celestes de nuestro sistema solar.",
+      "categoria": "Diseño"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440003",
+      "titulo": "¿Qué es JavaScript?",
+      "urlImagen": "https://i.postimg.cc/0yDk9vyB/1.jpg",
+      "url": "https://example.com/videos/futbol-entrenamiento.mp4",
+      "descripcion": "Mejora tus habilidades futbolísticas con estos ejercicios.",
+      "categoria": "DevOps"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440004",
+      "titulo": "Historia del arte",
+      "urlImagen": "https://i.postimg.cc/0yDk9vyB/1.jpg",
+      "url": "https://www.youtube.com/watch?v=TNhaISOUy6Q",
+      "descripcion": "Un recorrido por los movimientos artísticos más importantes de la historia.",
+      "categoria": "Programación"
+    }
+  ]
+}
